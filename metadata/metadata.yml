@@ -1,2 +1,11 @@
 metadata_version: 1
-name: SWDB 2023 Python Bootcamp
+name: SWDB Python Bootcamp
+description: Capsule for the Python Bootcamp for the Summer Workshop on the Dynamic
+  Brain 2023.
+authors:
+- name: Michael Buice
+- name: Luke Campagnola
+- name: Clark Roll
+- name: Anna Grim
+- name: Koosha Khalvati
+- name: many others
